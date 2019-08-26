@@ -6,7 +6,8 @@ namespace Test_transfer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Home");
+            Console.WriteLine("Work");
+            int a = Convert.int32(Console.readline()); 
         }
     }
 }
